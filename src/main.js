@@ -88,4 +88,5 @@ function deletarTarefa() {
 }
 
 menuPrincipal();
+print("Commit que nao influencia nos test")
 
