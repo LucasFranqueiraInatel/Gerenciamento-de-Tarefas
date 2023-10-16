@@ -1,3 +1,6 @@
+[![CI](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
+
+
 # Trabalho de Teste Unitario
 
 O Gerenciador de Tarefas é uma aplicação simples de linha de comando para gerenciar tarefas. Ele permite que os usuários adicionem, visualizem, atualizem e excluam tarefas.
