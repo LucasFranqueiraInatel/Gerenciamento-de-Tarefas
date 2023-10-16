@@ -13,7 +13,7 @@ class Task {
   
     addTask(title, description, status) {
       const task = new Task(title, description, status);
-      this.tasks.push(1);
+      this.tasks.push(task);
     }
   
     viewTasks() {

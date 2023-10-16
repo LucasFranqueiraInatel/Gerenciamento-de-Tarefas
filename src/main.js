@@ -88,4 +88,3 @@ function deletarTarefa() {
 }
 
 menuPrincipal();
-
