@@ -1,5 +1,4 @@
-[![CI](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
-
+[![CI](https://github.com/LucasFranqueiraInatel/Gerenciamento-de-Tarefas/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/LucasFranqueiraInatel/Gerenciamento-de-Tarefas/actions/workflows/npm-publish-github-packages.yml)
 
 # Trabalho de Teste Unitario
 
